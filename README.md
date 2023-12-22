@@ -13,7 +13,8 @@ This project simulates temperature and humidity information on a dashboard and l
 ## Getting Started
 
 ### Dependencies
-
+- **Thingsboard installation on ubuntu linux**: [This project uses MQTT to handle messaging between the scripts and the dashboard. Ensure you have an MQTT broker running or access to one.](https://thingsboard.io/docs/user-guide/install/ubuntu/)
+- **Thingsboard user manual**: [The scripts are written in JavaScript and designed to be run in a Node.js environment.](https://thingsboard.io/docs/guides/)
 - **MQTT**: This project uses MQTT to handle messaging between the scripts and the dashboard. Ensure you have an MQTT broker running or access to one.
 - **Node.js**: The scripts are written in JavaScript and designed to be run in a Node.js environment.
 
