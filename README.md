@@ -20,4 +20,9 @@ This project simulates temperature and humidity information on a dashboard and l
    ```bash
    git clone [repository URL]
    cd [repository directory]
-## npm install mqtt
+# Running the Scripts
+ ```bash
+   node send.js
+   node receive.js
+
+      
