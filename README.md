@@ -2,9 +2,7 @@
 
 This project simulates temperature and humidity information on a dashboard and logs messages to the console when a button is pushed. It consists of two main scripts, `send.js` and `receive.js`.
 
-
-![Gateway2Airport](https://github.com/rngabo/thingsboard/assets/33146522/887dee22-360f-4d65-89f8-9353cae6e8a2)
-
+![Screenshot from 2023-12-22 11-16-31](https://github.com/rngabo/thingsboard/assets/33146522/02e5ccfb-c4e0-4d0f-a498-fbff49305b2e)
 
 
 ## Description
